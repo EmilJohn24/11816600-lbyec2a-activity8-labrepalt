@@ -1,1 +1,3 @@
-# 11816600-lbyec2a-activity8-labrepalt
+# Project
+Activity Instructions:
+https://workshopj.com/moodle/custom/lbyec2a/12534-activity8v1/
