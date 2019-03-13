@@ -115,3 +115,4 @@ void plotRect(int color) {
 	       putxy(x,y,color,"*");	
 	   }
 }
+
